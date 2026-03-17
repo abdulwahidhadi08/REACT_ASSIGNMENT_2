@@ -22,7 +22,7 @@ const ProfileCard = ({
       <p className="text-center ">{bio}</p>
       <hr />
       <ul>
-        <h2 className="text-center uppercase mt-1 font-bold">{skillname}</h2>
+        <h2 className="ml-42 uppercase mt-1 font-bold">{skillname}</h2>
         <li className="list-disc ml-42 mt-1">{skills}</li>
         <li className="list-disc ml-42 ">{skill}</li>
         <li className="list-disc ml-42 ">{skil}</li>
