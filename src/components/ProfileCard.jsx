@@ -14,7 +14,7 @@ const ProfileCard = ({
 }) => {
   return (
     <div>
-      <img className="rounded-full ml-15" src={image} alt="profile" />
+      <img className="rounded-full flex  m-auto " src={image} alt="profile" />
       <h1 className="text-center text-2xl text-blue-600 font-bold ">{name}</h1>
       <p className="italic text-center mt-1">{profession}</p>
       <p className="italic text-center ">{experience}</p> <br />
