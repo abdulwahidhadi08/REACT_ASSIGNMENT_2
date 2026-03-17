@@ -43,7 +43,7 @@ function App() {
           name="Manahil Khan"
           profession="Full Mern Stack Developer"
           experience="Experience: 4+ years"
-          bio="Passionate software engineer with a love for problem solving"
+          bio="Passionate software engineer with a love for problem solving have a great experience"
           skillname="skills:"
           skills="Html"
           skill="Css"
